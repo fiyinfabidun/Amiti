@@ -38,7 +38,7 @@ function Home() {
         <h1  data-aos='fade-right'>Making a difference in the lives of people with disabilities a device at a time
  </h1>
         <p>Empowering independence through innovative equipment for disabilities.</p>
-        <button><Link to='/Contact'>Contact us</Link>/button>
+        <button><Link to='/Contact'>Contact us</Link></button>
         </div>
      
       </div>
