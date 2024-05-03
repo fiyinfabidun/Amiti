@@ -11,7 +11,7 @@ function Footer() {
             <div className="logo-section">
                 <div className="log">
                    <h2 style={{color:'#2d7221'}}>AMITI</h2>
-                    <p>Leading Assistive Technology Provider in west AfricaL</p>
+                    <p>Leading Assistive Technology Provider in west Africa</p>
                 </div>
                 <div className="about">
                     <h3>About us</h3>
@@ -43,7 +43,7 @@ function Footer() {
 
                 <div className="direct-contact">
                     <h3>Order directly from us</h3>
-                    <button><Link to='/Contact'>Send us a message</Link>e</button>
+                    <button><Link to='/Contact'>Send us a message</Link></button>
                 </div>
             </div>
             <div className="container hr">
