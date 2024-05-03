@@ -10,7 +10,7 @@ const Card = ({ title, content, imageUrl }) => {
       <div className="card-content">
         <h3 className='title'>{title}</h3>
         <p className={isShow?'show':'cards'}>{content}</p>
-        <button> <Link to='/Shop'> view Shop</Link></button>
+        <button> <Link to='/Shop'> View Shop</Link></button>
       </div>
     </div>
   );
