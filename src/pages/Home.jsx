@@ -38,7 +38,7 @@ function Home() {
         <h1  data-aos='fade-right'>Making a difference in the lives of people with disabilities a device at a time
  </h1>
         <p>Empowering independence through innovative equipment for disabilities.</p>
-        <button>Contact us</button>
+        <button><Link to='/Contact'>Contact us</Link>/button>
         </div>
      
       </div>
@@ -123,7 +123,7 @@ function Home() {
         <div className="container">
         <h1>Inquiries about ordering in bulk?</h1>
           <p>looking to place <b>excluisve wholesale or bulk orders?</b> contact us directly for faster responses and handling. we are here to assist you with your large-scale needs</p>
-          <button>send us a message</button>
+          <button><Link to='/Contact'>Send us a message</Link></button>
         </div>
         
       </div>
