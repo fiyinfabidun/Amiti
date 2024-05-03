@@ -37,13 +37,13 @@ function Footer() {
                          <li><Link to='/' >Home</Link></li>
                    <li><Link to='/Shop'>Shop</Link></li>
                    <li> 
-                   <button className='diff-btn'>contact us</button></li>
+                   <button className='diff-btn'><Link to='/Contact'>Contact us</Link></button></li>
 
                 </div>
 
                 <div className="direct-contact">
                     <h3>Order directly from us</h3>
-                    <button>Send us a message</button>
+                    <button><Link to='/Contact'>Send us a message</Link>e</button>
                 </div>
             </div>
             <div className="container hr">
