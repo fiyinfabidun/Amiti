@@ -49,7 +49,7 @@ function Footer() {
             <div className="container hr">
             <hr />
                     <div>
-                    Copyright © 1996-2024 Amiti general Company S.L. All rights reserved.
+                    Copyright © 1996-2024 Amiti General Services LLC. All rights reserved.
                     </div>
             </div>
     </footer>
