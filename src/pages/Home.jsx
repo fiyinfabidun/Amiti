@@ -122,7 +122,7 @@ function Home() {
       <div className="banner-section">
         <div className="container">
         <h1>Inquiries about ordering in bulk?</h1>
-          <p>looking to place <b>excluisve wholesale or bulk orders?</b> contact us directly for faster responses and handling. we are here to assist you with your large-scale needs</p>
+          <p>looking to place <b>exclusive wholesale or bulk orders?</b> contact us directly for faster responses and handling. we are here to assist you with your large-scale needs</p>
           <button><Link to='/Contact'>Send us a message</Link></button>
         </div>
         
