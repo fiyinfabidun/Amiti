@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Products from './ProductList';
+import { Link } from 'react-router-dom';
 
 
 const Product= () => {
@@ -67,6 +68,7 @@ const productsPerPage = 6; // Number of products per page
               <h3 className='title'>{product.title}</h3>
               <p className={isShow ? 'show' : 'cards'}>{product.content}</p>
             </div>
+              <button> <Link to="https://wa.link/6ta3v9" target="_blank" rel="noopener noreferrer">Purchase</Link> </button> 
           </div>
         ))}
       </div>
