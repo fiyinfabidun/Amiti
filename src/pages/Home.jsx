@@ -180,7 +180,8 @@ function Home() {
            Established in 1996 by the late Barrister Danlami Basharu, AMITI General Services is deeply committed to empowering individuals with disabilities across West Africa. Today, under the stewardship of Barrister Basharu's family, we continue his legacy of providing essential assistive technology to enhance the lives of people with disabilities.
            </p>
            <p>
-           Discover the remarkable and life changing journey of Barrister Danlami Basharu here <b>link</b>
+           Discover the remarkable and life changing journey of Barrister Danlami Basharu here  -
+            <a href="CV-Mr.DanlamiUmaruBASHARU-Nigeria-ENG.doc" download><b>Download</b></a>
            </p>
            <div className="about-icon">
 
