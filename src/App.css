@@ -5,8 +5,8 @@ margin:none;
 box-sizing: border-box;
 }
 :root{
-  /* --primary-color:#2d7221; */
-  --primary-color:#121212;
+  --primary-color:#2d7221;
+  /* --primary-color:#121212; */
   --secondary-color: #905a23 ;
   --accent-color:#163c0887;
   --background-white:#fcfcfc;
