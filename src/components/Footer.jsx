@@ -10,7 +10,7 @@ function Footer() {
         <div className="footer-segments container">
             <div className="logo-section">
                 <div className="log">
-                   <h2 style={{color:'#2d7221'}}>AMITI</h2>
+                   <h2 style={{color:'#905a23'}}>AMITI</h2>
                     <p>Leading Assistive Technology Provider in west Africa</p>
                 </div>
                 <div className="about">
