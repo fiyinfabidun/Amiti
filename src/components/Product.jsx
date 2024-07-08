@@ -37,11 +37,11 @@ const productsPerPage = 6; // Number of products per page
   };
 
    // Handle pagination click
-   const handlePageChange = (pageNumber) => {
-    setCurrentPage(pageNumber);
-      // Scroll to the top of the page
-      window.scrollTo(0, 0);
-  };
+  //  const handlePageChange = (pageNumber) => {
+  //   setCurrentPage(pageNumber);
+  //     // Scroll to the top of the page
+  //     window.scrollTo(0, 0);
+  // };
 
   return (
     <>
