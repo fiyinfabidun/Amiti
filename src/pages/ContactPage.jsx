@@ -21,6 +21,9 @@ You can place an order or make inquiries by sending us a mail using the mail add
             <p><b
             style={{color:'#2d7221'}}
             >hashiyahbasharu@gmail.com</b></p>
+             <p><b
+            style={{color:'#2d7221'}}
+            >aaliyahbasharu@gmail.com</b></p>
             </div>
 
             <div className="info">
@@ -43,6 +46,10 @@ You can place an order or make inquiries by sending us a mail using the mail add
             <p><b 
             style={{color:'#2d7221'}}
             > +234 8025108533</b></p>
+            <p><b 
+            style={{color:'#2d7221'}}
+            > +234 9022081638
+</b></p>            
             </div>
             </div>
             
