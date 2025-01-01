@@ -29,7 +29,7 @@ function Footer() {
                         <b>hashiyahbasharu@gmail.com</b>
                     </p>
                     <p>
-    <i className="fa-brands fa-instagram" style={{color: "#E4405F;"}}></i>
+    <i className="fa-brands fa-instagram" style={{color: "#905a23;"}}></i>
     <b>amitiltd</b>
 </p>
 
