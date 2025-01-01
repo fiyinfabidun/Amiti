@@ -28,6 +28,11 @@ function Footer() {
                         <i className="fa-solid fa-envelope-circle-check" style={{color: "#905a23;"}}></i>
                         <b>hashiyahbasharu@gmail.com</b>
                     </p>
+                    <p>
+    <i className="fa-brands fa-instagram" style={{color: "#E4405F;"}}></i>
+    <b>amitiltd</b>
+</p>
+
                    
 
                 </div>
