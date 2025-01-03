@@ -68,7 +68,8 @@ const productsPerPage = 6; // Number of products per page
               <h3 className='title'>{product.title}</h3>
               <p className={isShow ? 'show' : 'cards'}>{product.content}</p>
             </div>
-              <button> <a href="wa.link/dfnp3u" target="_blank" rel="noopener noreferrer">Purchase</a> </button> 
+            {/* redirection to whatsapp */}
+              <button> <a href="https//:wa.link/dfnp3u" target="_blank" rel="noopener noreferrer">Purchase</a> </button> 
           </div>
         ))}
       </div>
